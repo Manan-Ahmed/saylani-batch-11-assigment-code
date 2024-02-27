@@ -1,0 +1,30 @@
+.logo{
+   text-align: center;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+ul{
+    width: 700px;
+    padding: 15px;
+    margin: 0px auto 0px auto;
+    border-top: 2px solid #000; 
+     border-bottom: 1px solid #000;
+    text-align: center;
+    text-decoration: none;
+}
+li{
+    text-decoration: none;
+}
+.box{
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    
+}
+.box>img{
+    width: 770px;
+}

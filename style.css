@@ -1,0 +1,29 @@
+.main{
+    
+    border: 1px solid black;
+    width: 200px;
+   height:  200px;
+   
+    display: flex;
+    justify-content: center;
+    background-color: rgba(219, 44, 21, 0.751);
+}
+.main{
+    text-align: center;
+    margin: 0 auto ;
+}
+.content{
+    border: 1px solid black;
+    width: 15px;
+    border-radius: 100px;
+   justify-content: center;
+   
+   margin: 30px;
+   background-color: rgba(229, 240, 239, 0.974);
+}
+.content{
+  
+} */
+
+
+
